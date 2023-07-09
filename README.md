@@ -1,1 +1,2 @@
 # TextEditor
+Simple DSA project
